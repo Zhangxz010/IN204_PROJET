@@ -1,0 +1,6 @@
+-I/usr/include/quazip5
+-I/usr/include/poppler/qt5
+-I/home/zxz/Comic_book_reader/include
+-o
+/home/zxz/Comic_book_reader/build/include/file_handlers/moc_PDFReader.cpp
+/home/zxz/Comic_book_reader/include/file_handlers/PDFReader.h

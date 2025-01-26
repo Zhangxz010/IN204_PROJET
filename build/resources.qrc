@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/testsets/images">
+        <file>images/image1.jpg</file>
+        <file>images/image2.jpg</file>
+    </qresource>
+</RCC>

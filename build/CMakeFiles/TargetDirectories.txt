@@ -1,0 +1,3 @@
+/home/zxz/Comic_book_reader/build/CMakeFiles/ComicBookReader.dir
+/home/zxz/Comic_book_reader/build/CMakeFiles/edit_cache.dir
+/home/zxz/Comic_book_reader/build/CMakeFiles/rebuild_cache.dir
