@@ -5,7 +5,7 @@
 1. [Introduction](#introduction)
 2. [Fonctionnalités](#fonctionnalités)
 3. [Installation](#installation)
-4. [Affichage de l'interface](#Affichage de l'interface)
+4. [Affichage de UI](#affichage-de-UI)
 5. [Contributeurs](#contributeurs)
 
 ## **Introduction**
@@ -60,7 +60,7 @@
    ```
 
 
-### **Affichage de l'interface**
+## **Affichage de UI**
 
 ![Affichage de l'interface](./path_to_interface_image.png)
 
