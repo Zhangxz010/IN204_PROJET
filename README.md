@@ -5,7 +5,7 @@
 1. [Introduction](#introduction)
 2. [Fonctionnalités](#fonctionnalités)
 3. [Installation](#installation)
-4. [Utilisation](#utilisation)
+4. [Affichage de l'interface](#Affichage de l'interface)
 5. [Contributeurs](#contributeurs)
 
 ## **Introduction**
@@ -60,26 +60,12 @@
    ```
 
 
-## **Utilisation**
+### **Affichage de l'interface**
 
-### **Ouverture d’un fichier**
-1. Cliquez sur le bouton **"Open"**.
-2. Sélectionnez un fichier au format `.cbz`, `.cbr` ou `.pdf`.
-3. Choisissez le mode d’affichage (simple ou double page).
+![Affichage de l'interface](./path_to_interface_image.png)
 
-### **Création d’un fichier**
-1. Cliquez sur le bouton **"Create"**.
-2. Sélectionnez les images à inclure.
-3. Enregistrez votre fichier au format `.cbz` ou `.cbr`.
-
-### **Commandes principales**
-- **Zoom avant** : Cliquez sur le bouton **"+"**.
-- **Zoom arrière** : Cliquez sur le bouton **"-"**.
-- **Page suivante/précédente** : Utilisez les boutons **"Next"** et **"Previous"**.
-- **Aller à une page spécifique** : Cliquez sur **"To Page"** et entrez le numéro de page.
-
----
 
 ## **Contributeurs**
 - **Qizheng WANG** 
-- **Xingzi ZHANG** 
+- **Xingzi ZHANG**
+
